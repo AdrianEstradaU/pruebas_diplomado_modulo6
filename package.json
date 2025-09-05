@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AdrianEstradaU/pruebas_diplomado_modulo6/issues"
   },
-  "homepage": "https://github.com/AdrianEstradaU/pruebas_diplomado_modulo6#readme"
+  "homepage": "https://github.com/AdrianEstradaU/pruebas_diplomado_modulo6#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
 }

@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AdrianEstradaU/pruebas_diplomado_modulo6#readme",
   "devDependencies": {
     "@playwright/test": "^1.55.0"
+  },
+  "dependencies": {
+    "star": "^0.5.0"
   }
 }
